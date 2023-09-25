@@ -1,0 +1,6 @@
+# Default .gitconfig
+[rebase]
+	autosquash = true
+	updateRefs = true
+[merge]
+	conflictstyle = diff3
